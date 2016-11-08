@@ -1,0 +1,23 @@
+{
+  "name": "testing-fb-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FadySamirSadek/TestingFBBots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FadySamirSadek/TestingFBBots/issues"
+  },
+  "homepage": "https://github.com/FadySamirSadek/TestingFBBots#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
